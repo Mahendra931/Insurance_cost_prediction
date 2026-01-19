@@ -28,7 +28,7 @@ The dataset includes the following features:
 
 
 ## 🚀 Live Application
-🔗 **Live Demo:** https://your-streamlit-app-link-here
+🔗 **Live Demo:** (https://insurancecostprediction1.streamlit.app/)
 
 ## 🛠 Tech Stack
 - Python
