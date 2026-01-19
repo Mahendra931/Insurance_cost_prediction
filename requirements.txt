@@ -1,0 +1,10 @@
+
+Impotant libraries
+
+(1) streamlit
+(2) scikit-learn
+(3) pandas
+(4) numpy
+(5) matplotlib
+(6) joblib
+
